@@ -1,2 +1,3 @@
 # Excel_Project-Data_Analytics
-My project demonstrating the Excel skills I learned.
+These are my projects demonstrating the Excel skills I learned during Luke Barousse's course.
+It taught me a lot about Excel and its functionalities.
